@@ -1,4 +1,4 @@
-# SeasonOfAI-Bengaluru
+# [SeasonOfAI-Bengaluru](https://www.meetup.com/Microsoft-Azure-Bangalore/events/301793137/) 
 Season of AI Slides and Demo links
 
 ## Samples
